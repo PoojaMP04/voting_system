@@ -11,11 +11,11 @@ my first repository on github
 ->Authenticity
 ->Accuracy
 ->Security
-###[specific requirements] High level
+[specific requirements] High level
 ->Multi user
 -> Multi campaign
 ->Accessibility
 ->Availability
-####Implementation
+#### Implementation
 ->Data base server implementation
 ->e-voting server
