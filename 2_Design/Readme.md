@@ -1,2 +1,2 @@
 structural diagram
-![structural diagram](structural dig.jpeg)
+![structural diagram]("structural dig.jpeg")
