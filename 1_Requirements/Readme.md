@@ -1,6 +1,6 @@
 # Requirements
 <ul>
-** Introduction**
+ Introduction
 
 <li>Voting and elections are essential ingredients of modern democratic societies.One of these methods is the modernization of the way in which the elections are being conducted is through Voting System.It completely eliminates the possibility of casting 'Invalid Votes', which during the paper ballot regime was noticed in large numbers during each election. In fact, in many cases, the number of 'Invalid Votes' exceeded the winning margin, leading to numerous complaints and litigations,It is interesting to note here that traditional/manual voting systems are slow, complex, inaccurate and inefficient.</li>
 
@@ -15,20 +15,6 @@ Features
 Defining Our System
 
 <li> In this voting system it is very simple, accurate and easy to access all the features.It mainly inclues two types of panel. Voter panel and Admin Panel.The Admin can Login in and Logout option.Admin can initialize elections and add the election candidates.The admin is able to delete illegal vote ,Ban user id and able to see result aswell.The voter can login with valid User ID and vote the candidates.
-
-High Level Requirements
-
-<li>Multi user</li>
-<li>Multi campaign</li>
-<li>Accessibility</li>
-<li>Availability</li>
-
-Low Level Requirements
-
-<li>Privacy</li>
-<li>Authenticity</li>
-<li>Accuracy</li>
-<li>Security</li>
 
 SWOT Analysis
 Strength of voting System
@@ -46,7 +32,20 @@ Oppurtunities
 <li>Campaigning</li>
 <li>Polling</li>
 
-Threats
+<ul>Threats</ul>
 <li>Security could be an issue if not implemented carefully</li>
+High Level Requirements
+
+<li>Multi user</li>
+<li>Multi campaign</li>
+<li>Accessibility</li>
+<li>Availability</li>
+
+Low Level Requirements
+
+<li>Privacy</li>
+<li>Authenticity</li>
+<li>Accuracy</li>
+<li>Security</li>
 
 </ul>
