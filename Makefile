@@ -5,4 +5,28 @@ PROJECT_NAME = Voting_System
 BUILD = build
 
 # All source code files
-SRC = 
+SRC = MAIN.c\
+src/ELECTION.H
+
+# Project Output name
+PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
+
+# Default target built
+$(PROJECT_NAME):all
+
+# Run the target even if the matching name exists
+.PHONY: run clean test doc all
+
+all: $(SRC) $(BUILD)
+	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT).out
+
+# Call `make run` to run the application
+run:$(PROJECT_NAME)
+	./$(PROJECT_OUTPUT).out
+
+	# Remove all the built files, invoke by `make clean`
+
+
+# Create new build folder if not present
+$(BUILD):
+	mkdir build
