@@ -17,7 +17,8 @@ Features
 <li> In this voting system it is very simple, accurate and easy to access all the features.It mainly inclues two types of panel. Voter panel and Admin Panel.The Admin can Login in and Logout option.Admin can initialize elections and add the election candidates.The admin is able to delete illegal vote ,Ban user id and able to see result aswell.The voter can login with valid User ID and vote the candidates.
 
  <h2>SWOT Analysis</h2>
-Strength of voting System
+ 
+ <h2>Strength of voting System</h2>
 <li>Easy to implement.</li>
 <li>Easy to access the voting system</li>
 <li>Votes are stored securely</li>
