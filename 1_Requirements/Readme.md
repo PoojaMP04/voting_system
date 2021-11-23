@@ -1,23 +1,52 @@
 # Requirements
 <ul>
-     Introduction
-    <li>Voting and elections are essential ingredients of modern democratic societies.One of these methods is the modernization of the way in which the elections are being conducted is through Voting System.It completely eliminates the possibility of casting 'Invalid Votes', which during the paper ballot regime was noticed in large numbers during each election. In fact, in many cases, the number of 'Invalid Votes' exceeded the winning margin, leading to numerous complaints and litigations,It is interesting to note here that traditional/manual voting systems are slow, complex, inaccurate and inefficient.</li>
-     Research
-    <li>The main objective  is to make a step forward in the direction of online voting platform by providing all the essential security levels and to make the voting process easy, less time taking, and secure. Online voting system eliminate the bogus voting which can occur in tradition voting schemes.</li>
-    Features
-    <li>Voting System will allow us to set up a flexible and trustworthy voting system.</li>
-    <li>It is applicable for large and as well as small group of people.</li>
-    <li>It keeps a record of every voting process.</li>
-     Defining Our System
-    <li> In this voting system it is very simple, accurate and easy to access all the features.It mainly inclues two types of panel. Voter panel and Admin Panel.The Admin can Login in and Logout option.Admin can initialize elections and add the election candidates.The admin is able to delete illegal vote ,Ban user id and able to see result aswell.The voter can login with valid User ID and vote the candidates.
-    High Level Requirements
-    <li>Multi user</li>
-    <li>Multi campaign</li>
-    <li>Accessibility</li>
-    <li>Availability</li>
-    Low Level Requirements
-    <li>Privacy</li>
-    <li>Authenticity</li>
-    <li>Accuracy</li>
-    <li>Security</li>
+ Introduction
+
+<li>Voting and elections are essential ingredients of modern democratic societies.One of these methods is the modernization of the way in which the elections are being conducted is through Voting System.It completely eliminates the possibility of casting 'Invalid Votes', which during the paper ballot regime was noticed in large numbers during each election. In fact, in many cases, the number of 'Invalid Votes' exceeded the winning margin, leading to numerous complaints and litigations,It is interesting to note here that traditional/manual voting systems are slow, complex, inaccurate and inefficient.</li>
+
+Research
+
+<li>The main objective  is to make a step forward in the direction of online voting platform by providing all the essential security levels and to make the voting process easy, less time taking, and secure. Online voting system eliminate the bogus voting which can occur in tradition voting schemes.</li>
+Features
+<li>Voting System will allow us to set up a flexible and trustworthy voting system.</li>
+<li>It is applicable for large and as well as small group of people.</li>
+<li>It keeps a record of every voting process.</li>
+
+Defining Our System
+
+<li> In this voting system it is very simple, accurate and easy to access all the features.It mainly inclues two types of panel. Voter panel and Admin Panel.The Admin can Login in and Logout option.Admin can initialize elections and add the election candidates.The admin is able to delete illegal vote ,Ban user id and able to see result aswell.The voter can login with valid User ID and vote the candidates.
+
+High Level Requirements
+
+<li>Multi user</li>
+<li>Multi campaign</li>
+<li>Accessibility</li>
+<li>Availability</li>
+
+Low Level Requirements
+
+<li>Privacy</li>
+<li>Authenticity</li>
+<li>Accuracy</li>
+<li>Security</li>
+
+SWOT Analysis
+Strength of voting System
+<li>Easy to implement.</li>
+<li>Easy to access the voting system</li>
+<li>Votes are stored securely</li>
+<li>Results are accurate</li>
+<li>Privacy is high</li>
+
+Weakness of Voting System
+<li>Scalibility</li>
+<li>Interactivity</li>
+
+Oppurtunities
+<li>Campaigning</li>
+<li>Polling</li>
+
+Threats
+<li>Security could be an issue if not implemented carefully</li>
+
 </ul>
