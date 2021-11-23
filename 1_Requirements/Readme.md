@@ -1,10 +1,10 @@
 # Requirements
 <ul>
- Introduction
+ INTRODUCTION
 
 <li>Voting and elections are essential ingredients of modern democratic societies.One of these methods is the modernization of the way in which the elections are being conducted is through Voting System.It completely eliminates the possibility of casting 'Invalid Votes', which during the paper ballot regime was noticed in large numbers during each election. In fact, in many cases, the number of 'Invalid Votes' exceeded the winning margin, leading to numerous complaints and litigations,It is interesting to note here that traditional/manual voting systems are slow, complex, inaccurate and inefficient.</li>
 
-Research
+RESEARCH
 
 <li>The main objective  is to make a step forward in the direction of online voting platform by providing all the essential security levels and to make the voting process easy, less time taking, and secure. Online voting system eliminate the bogus voting which can occur in tradition voting schemes.</li>
 Features
