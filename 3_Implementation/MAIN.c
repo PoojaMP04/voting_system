@@ -1,4 +1,4 @@
-#include"election.h"
+#include"src/election.h"
 
 int main()
 {
