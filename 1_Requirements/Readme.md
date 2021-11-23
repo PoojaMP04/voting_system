@@ -16,20 +16,6 @@ Defining Our System
 
 <li> In this voting system it is very simple, accurate and easy to access all the features.It mainly inclues two types of panel. Voter panel and Admin Panel.The Admin can Login in and Logout option.Admin can initialize elections and add the election candidates.The admin is able to delete illegal vote ,Ban user id and able to see result aswell.The voter can login with valid User ID and vote the candidates.
 
-High Level Requirements
-
-<li>Multi user</li>
-<li>Multi campaign</li>
-<li>Accessibility</li>
-<li>Availability</li>
-
-Low Level Requirements
-
-<li>Privacy</li>
-<li>Authenticity</li>
-<li>Accuracy</li>
-<li>Security</li>
-
 SWOT Analysis
 Strength of voting System
 <li>Easy to implement.</li>
@@ -48,5 +34,18 @@ Oppurtunities
 
 <ul>Threats</ul>
 <li>Security could be an issue if not implemented carefully</li>
+High Level Requirements
+
+<li>Multi user</li>
+<li>Multi campaign</li>
+<li>Accessibility</li>
+<li>Availability</li>
+
+Low Level Requirements
+
+<li>Privacy</li>
+<li>Authenticity</li>
+<li>Accuracy</li>
+<li>Security</li>
 
 </ul>
