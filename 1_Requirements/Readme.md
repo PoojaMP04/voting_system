@@ -49,9 +49,8 @@ How : By developing a voting system which has user friendly Command Line Interfa
  
  <h2>High Level Requirements</h2>
 
-<li>Multi user</li>
-<li>Multi campaign</li>
-<li>Accessibility</li>
+ <li>Multi Election</li>
+<li>Admin Accessibility</li>
 <li>Availability</li>
 
  <h2>Low Level Requirements</h2>
@@ -62,3 +61,63 @@ How : By developing a voting system which has user friendly Command Line Interfa
 <li>Security</li>
 
 </ul>
+<table>
+Table no1: High level test plan
+    <td>ID </td>
+    <td>Description</td>
+    <td>Status</td>
+    
+  </tr>
+   <tr>
+    <td>H_01</td>
+ <td>Admin should able to conduct Multi Election  </td>
+    <td>Implemented </td>
+   
+  </tr>
+   <tr>
+  <td>H_02 </td>
+ <td>Admin should able to access differenty voting activites</td>
+    <td>Implemented </td>
+    
+  </tr>
+   <tr>
+  <td>H_03 </td>
+ <td>Admin should get Accurate results  </td>
+    <td>Implemented</td>
+   
+  </tr>
+   <tr>
+ </table>
+<table>
+Table no1: Low level test plan
+    <td>ID </td>
+    <td>Description</td>
+    <td>Status</td>
+    
+  </tr>
+   <tr>
+    <td>L_01</td>
+ <td>User able to login successfully </td>
+    <td>Implemented </td>
+   
+  </tr>
+   <tr>
+  <td>L_02 </td>
+ <td>User able too see Candidate list </td>
+    <td>Implemented </td>
+    
+  </tr>
+   <tr>
+  <td>L_03 </td>
+ <td>User able to caste vote successfully </td>
+    <td> Implemented  </td>
+   
+  </tr>
+   <tr>
+  <td>L_04 </td>
+ <td>User able to see Results </td>
+    <td> Implemented  </td>
+   
+  </tr>
+   <tr>
+ </table>
