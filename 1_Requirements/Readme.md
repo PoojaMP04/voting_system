@@ -36,11 +36,21 @@ Features
 <h2>Threats</h2>
 <li>Security could be an issue if not implemented carefully</li>
  
+ <h2>4W's and 1'H</h2>
+ <li>Who : The User who want to cast the vote in election for the candidates of their choice  .
+
+What :The project main goal is to make use of voting system that helps the user to cast the vote in election.
+
+When :When their is need to conduct the election for selecting the representative's it can be done using voting system.
+
+Where :As for conducting the election many money and manual system are required ,so by using this system it will be cost effective and less manual system will be required .
+
+How : By developing a voting system which has user friendly Command Line Interface which will help user to cast the vote and see the leading candidates.</li>
+ 
  <h2>High Level Requirements</h2>
 
-<li>Multi user</li>
-<li>Multi campaign</li>
-<li>Accessibility</li>
+ <li>Multi Election</li>
+<li>Admin Accessibility</li>
 <li>Availability</li>
 
  <h2>Low Level Requirements</h2>
@@ -51,3 +61,63 @@ Features
 <li>Security</li>
 
 </ul>
+<table>
+Table no1: High level test plan
+    <td>ID </td>
+    <td>Description</td>
+    <td>Status</td>
+    
+  </tr>
+   <tr>
+    <td>H_01</td>
+ <td>Admin should able to conduct Multi Election  </td>
+    <td>Implemented </td>
+   
+  </tr>
+   <tr>
+  <td>H_02 </td>
+ <td>Admin should able to access differenty voting activites</td>
+    <td>Implemented </td>
+    
+  </tr>
+   <tr>
+  <td>H_03 </td>
+ <td>Admin should get Accurate results  </td>
+    <td>Implemented</td>
+   
+  </tr>
+   <tr>
+ </table>
+<table>
+Table no1: Low level test plan
+    <td>ID </td>
+    <td>Description</td>
+    <td>Status</td>
+    
+  </tr>
+   <tr>
+    <td>L_01</td>
+ <td>User able to login successfully </td>
+    <td>Implemented </td>
+   
+  </tr>
+   <tr>
+  <td>L_02 </td>
+ <td>User able too see Candidate list </td>
+    <td>Implemented </td>
+    
+  </tr>
+   <tr>
+  <td>L_03 </td>
+ <td>User able to caste vote successfully </td>
+    <td> Implemented  </td>
+   
+  </tr>
+   <tr>
+  <td>L_04 </td>
+ <td>User able to see Results </td>
+    <td> Implemented  </td>
+   
+  </tr>
+   <tr>
+ </table>

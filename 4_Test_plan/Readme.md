@@ -16,7 +16,7 @@ Table no1: High level test plan
     <td>Valid user ID </td>
     <td>User logged in successfully </td>
     <td>User logged in successfully </td>
-    <td>Scenario Based </td>
+    <td>Requirement Based </td>
   </tr>
    <tr>
     <td>H_02 </td>
@@ -51,28 +51,23 @@ Table no2: Low level test plan
   </tr>
   <tr>
     <td>L_01 </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> Admin should be able to ban illegal vote</td>
+    <td>enter 4 to ban illegal vote </td>
+    <td>Vote will be removed </td>
+    <td>Vote will be removed </td>
+    <td>Scenario Based </td>
   </tr>
    <tr>
     <td>L_02 </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>Requirement Based </td>
-  </tr>
-  <tr>
-    <td>L_03 </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td>Admin should be able to continue previous election </td>
+    <td>Select 2 to continue election </td>
+    <td>Election will be continued</td>
+    <td>Election will be continued </td>
     <td>Scenario Based </td>
   </tr>
+  
 </table>
+
+
 
 
